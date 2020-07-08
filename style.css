@@ -1,0 +1,28 @@
+
+.box_wapper {
+    overflow: hidden;
+    padding: 10px;
+}
+.box1 {
+    width: 570px;
+    margin-right: 90px;
+    float: left;
+    display: block;
+}
+.box2 {
+    width: 570px;
+    margin-right: px;
+    float: left;
+}
+.invoice-details {
+ 
+    margin-left: -90px;
+}
+.btn {
+    display: block;
+    margin: 0 auto;
+    width: 160px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+}
